@@ -1,0 +1,15 @@
+.card {
+    border: 2px solid #707070;
+}
+
+.source-name {
+    z-index: 1;
+}
+
+.start-100 {
+    left: 20% !important;
+}
+
+.card-img {
+    height: 172px;
+}
